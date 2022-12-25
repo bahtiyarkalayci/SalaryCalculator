@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Employee ahmet=new Employee("ahmet java",1500,45,2019);
+        ahmet.print();
+
+
     }
 }
